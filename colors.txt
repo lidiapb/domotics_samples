@@ -1,0 +1,7 @@
+Button codes regarding 1 IR controller:Button codes regarding 1 IR controller:
+Button Code - ON: 0x300f7c03f
+Button Code - OFF: 0x300f740bf
+Button Code - RED: 0x300f720df
+Button Code - GREEN: 0x300f7a05f
+Button Code - BLUE: 0x300f7609f
+Button Code - WHITE: 0x300f7e01f

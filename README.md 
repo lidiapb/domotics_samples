@@ -1,0 +1,9 @@
+# Domotics samples
+
+Several test files for some domotics utilities: 
+
+* IR receiver for reverse engineering the IR emitters
+* Remote IR control for Led stripes and AC 
+* Sensor measurement broadcasting through local MQTT broker
+* CPU temperature measurement
+
